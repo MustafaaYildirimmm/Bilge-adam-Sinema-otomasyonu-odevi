@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\sınav\sınav\bin\Debug\sınav.exe
+C:\Users\Asus\Desktop\sınav\sınav\bin\Debug\sınav.pdb
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\SinemaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\sınav.Form1.resources
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\sınav.Form2.resources
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\sınav.Properties.Resources.resources
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\sınav.exe
+C:\Users\Asus\Desktop\sınav\sınav\obj\Debug\sınav.pdb
